@@ -25,16 +25,6 @@
             echo $_POST['box'];
         }
     }
-            // elseif (isset($_POST['box'])) {
-            //     $second = $_POST['box'];
-            //     echo $second;
-            // }
-            // elseif (isset($_POST['box'])) {
-            //     $third = $_POST['box'];
-            //     echo $third;
-            // }
-            // else {
-            //     echo "";
         
     ?>
 </body>

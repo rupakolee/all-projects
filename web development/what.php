@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <h1>Select tag in html</h1>
+    <h1>Datalist tag in html</h1>
     <form method="post">
         <label for="country">Country</label>
         <input id="country" name="country" list="countries">

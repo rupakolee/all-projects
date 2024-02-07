@@ -1,0 +1,17 @@
+tutorials {
+    margin: 10px;
+    background-color: green;
+    font-family: sans-serif;
+}
+
+name {
+    display :block;
+    font-weight: bold;
+}
+
+url  {
+    display: block;
+    color: blue;
+    font-size: small;
+    font-style: italic;
+}

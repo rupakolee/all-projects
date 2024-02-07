@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="students.xsl"?>
+<studentList>
+    <student>
+    <id>7830020</id>
+    <name>
+    <fName>Anish</fName>
+    <lName>Chaudhary</lName>
+    </name>
+    <course>
+    <id>C101</id>
+    <name>C programming</name>
+    </course>
+    <batch>
+    <year>2001</year>
+    <section>A</section>
+    </batch>
+    <contact>9827563554</contact>
+    <dob>1985/4/11</dob>
+    <gender>Male</gender>
+  </student>
+    <student>
+    <id>7830050</id>
+    <name>
+    <fName>Rupak</fName>
+    <lName>Oli</lName>
+    </name>
+    <course>
+    <id>C105</id>
+    <name>BCA</name>
+    </course>
+    <batch>
+    <year>2002</year>
+    <section>B</section>
+    </batch>
+    <contact>982746447</contact>
+    <dob>1989/1/23</dob>
+    <gender>Male</gender>
+  </student>
+  
+   <student>
+    <id>7830748</id>
+    <name>
+    <fName>Ureka</fName>
+    <lName>Gautam</lName>
+    </name>
+    <course>
+    <id>D901</id>
+    <name>IT</name>
+    </course>
+    <batch>
+    <year>2005</year>
+    <section>C</section>
+    </batch>
+    <contact>9835734782</contact>
+    <dob>2001/5/21</dob>
+    <gender>Female</gender>
+  </student>
+    <student>
+    <id>4897895</id>
+    <name>
+    <fName>Bishal</fName>
+    <lName>Panta</lName>
+    </name>
+    <course>
+    <id>G7474</id>
+    <name>Web Technology</name>
+    </course>
+    <batch>
+    <year>2005</year>
+    <section>D</section>
+    </batch>
+    <contact>9846344878</contact>
+    <dob>1945/5/1</dob>
+    <gender>Male</gender>
+  </student>
+    <student>
+    <id>4874748</id>
+    <name>
+    <fName>Bipin</fName>
+    <lName>Adhakari</lName>
+    </name>
+    <course>
+    <id>S8484</id>
+    <name>BBM</name>
+    </course>
+    <batch>
+    <year>2008</year>
+    <section>D</section>
+    </batch>
+    <contact>9848748748</contact>
+    <dob>1944/02/09</dob>
+    <gender>Male</gender>
+  </student>
+</studentList>
+
